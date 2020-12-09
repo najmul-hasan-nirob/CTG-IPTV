@@ -1,18 +1,18 @@
 #EXTM3U Albdroid TV
 #EXTINF:-1 tvg-ID="" tvg-name="MAASRANGA TV" tvg-logo="" group-title="",MAASRANGA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SOMOY TV" tvg-logo="" group-title="",SOMOY TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="" group-title="",NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MY TV" tvg-logo="" group-title="",MY TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
 #EXTINF:-1 tvg-ID="" tvg-name="JAMUNA TV" tvg-logo="" group-title="",JAMUNA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="GAZI TV" tvg-logo="" group-title="",GAZI TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:-1 tvg-ID="" tvg-name="GAAN BANGLA" tvg-logo="" group-title="",GAAN BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="EKUSHEY TV" tvg-logo="" group-title="",EKUSHEY TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CHANNEL 9" tvg-logo="" group-title="",CHANNEL 9
